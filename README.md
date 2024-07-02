@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-<<div style="display: flex;  align-items: center; flex-wrap: wrap; gap: 20px; margin: 0 0 20px 15px">
+<div style="display: flex;  align-items: center; flex-wrap: wrap; gap: 20px; margin: 0 0 20px 15px">
 <a href="https://github.com/SchizoViv">
         <img src="https://github-readme-stats.vercel.app/api?username=SchizoViv" alt="Anurag’s github stats" />
     </a>
