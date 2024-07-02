@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SchizoViv&layout=compact)](https://github.com/yushi1007)
 
 
-<a href=”https://www.linkedin.com/in/vlada-yakovleva-aa0875258/"><img align=”left” src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/images/linkedin.png” alt="icon | LinkedIn” width=”21px”/></a>
-
-<a href=”https://www.linkedin.com/in/vlada-yakovleva-aa0875258/"><img align=”left” src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/images/telegram.png” alt="icon | Telegram” width=”21px”/></a>
-
-<a href=”https://www.linkedin.com/in/vlada-yakovleva-aa0875258/"><img align=”left” src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/images/instagram.png” alt="icon | Instagram” width=”21px”/></a>
+[<img src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/images/linkedin.png" height="20em" align="center" alt="Follow SchizoViv on LinkedIn" title="Follow SchizoViv on LinkedIn"/>](https://www.linkedin.com/in/vlada-yakovleva-aa0875258/)
+[<img src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/images/telegram.png" height="20em" align="center" alt="Follow SchizoViv on Telegram" title="Follow SchizoViv on LinkedIn"/>](https://t.me/Schizovi)
+[<img src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/images/instagram.png" height="20em" align="center" alt="Follow SchizoViv on LinkedIn" title="Follow SchizoViv on Instagram"/>](https://www.instagram.com/schizovi/?hl=ru)
