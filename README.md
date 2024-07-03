@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-![Codewars](https://github.r2v.ch/codewars?user=Vlada_schizovi)
+[![Codewars](https://github.r2v.ch/codewars?user=Vlada_schizovi)](https://github.r2v.ch/codewars?user=Vlada_schizovi)
 
 
 
