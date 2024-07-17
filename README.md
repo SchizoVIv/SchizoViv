@@ -1,4 +1,5 @@
-## Hi, my name is Vlada and I'm an enthusiastic frontend developer. I have a passion for building websites and learning new technologies. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=4000&pause=800&color=BAD80A&vCenter=true&width=435&lines=Hi%2C+I'm+Vlada+%E2%98%98%EF%B8%8F)](https://git.io/typing-svg)
+## I'm an enthusiastic frontend developer. I have a passion for building websites and learning new technologies. 
 &nbsp;
 
 
