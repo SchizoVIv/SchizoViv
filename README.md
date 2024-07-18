@@ -24,19 +24,29 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-&nbsp;
-<div style="display: flex;  align-items: center; flex-wrap: wrap; gap: 20px; margin: 0 0 20px 15px">
-<a href="https://github.com/SchizoViv">
-        <img src="https://github-readme-stats.vercel.app/api?username=SchizoViv" alt="SchizoViv’s github stats" />
-    </a>
-<img width="70" alt="color picker" src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/gif/ZZ5H.gif" style="margin: 20px 15px;" />
+<div>
+    <img src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/images/languages.svg" height="200em" align="center" alt="Follow SchizoViv on LinkedIn" title="Follow SchizoViv on LinkedIn"/>
+    <img width="70" alt="color picker" src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/gif/ZZ5H.gif" style="margin: 20px 15px;" />
 </div>
 
-<div style="display: flex;  align-items: center; flex-wrap: wrap; gap: 20px; margin: 0 0 20px 15px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchizoViv&layout=compact" alt="Language Statistics" />
-    <img height="100" alt="color picker"     src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/gif/3Whh.gif"  />
-    
+<div >
+    <img height="100" alt="color picker"     src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/gif/3Whh.gif" style=" margin: 20px;" />
+    <img src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/images/overview.svg" height="200em" align="center" alt="Follow SchizoViv on LinkedIn" title="Follow SchizoViv on LinkedIn" style=" margin: 40px 0 0 0;"/>
 </div>
+
+
+<!--<div style="display: flex;  align-items: center; flex-wrap: wrap; gap: 20px; margin: 0 0 20px 15px">-->
+<!--<a href="https://github.com/SchizoViv">-->
+<!--        <img src="https://github-readme-stats.vercel.app/api?username=SchizoViv" alt="SchizoViv’s github stats" />-->
+<!--    </a>-->
+<!--<img width="70" alt="color picker" src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/gif/ZZ5H.gif" style="margin: 20px 15px;" />-->
+<!--</div>-->
+
+<!--<div style="display: flex;  align-items: center; flex-wrap: wrap; gap: 20px; margin: 0 0 20px 15px">-->
+<!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchizoViv&layout=compact" alt="Language Statistics" />-->
+<!--    <img height="100" alt="color picker"     src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/gif/3Whh.gif"  />-->
+    
+<!--</div>-->
 
 <!--#### Top Repositories-->
 <!--<div style="display: flex; flex-direction: column;">-->
@@ -65,6 +75,6 @@
 [![Codewars](https://github.r2v.ch/codewars?user=Vlada_schizovi)](https://github.r2v.ch/codewars?user=Vlada_schizovi)
 
 ### How to reach me:
-[<img src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/images/linkedin.png" height="40em" align="center" alt="Follow SchizoViv on LinkedIn" title="Follow SchizoViv on LinkedIn"/>](https://www.linkedin.com/in/vlada-yakovleva-aa0875258/)
-[<img src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/images/telegram.png" height="40em" align="center" alt="Follow SchizoViv on Telegram" title="Follow SchizoViv on LinkedIn"/>](https://t.me/Schizovi)
+[<img src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/images/linkedin.png" height="40em" align="center" alt="Follow SchizoViv on LinkedIn" title="Follow SchizoViv on LinkedIn" style="margin: 0 20px 0 0"/>](https://www.linkedin.com/in/vlada-yakovleva-aa0875258/)
+[<img src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/images/telegram.png" height="40em" align="center" alt="Follow SchizoViv on Telegram" title="Follow SchizoViv on LinkedIn" style="margin: 0 20px 0 0"/>](https://t.me/Schizovi)
 [<img src="https://raw.githubusercontent.com/SchizoViv/SchizoViv/main/images/instagram.png" height="40em" align="center" alt="Follow SchizoViv on LinkedIn" title="Follow SchizoViv on Instagram"/>](https://www.instagram.com/schizovi/?hl=ru)
